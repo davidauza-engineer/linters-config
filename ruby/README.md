@@ -2,7 +2,7 @@
 
 If you are not familiar with linters and Stickler, read [root level README](../README.md).
 
-### Set-up GitHub Actions for Rubocop
+### Set-up Rubocop GitHub Action - it will show that your app is free from style errors
 
 Please do the following **steps in this order**:
 
